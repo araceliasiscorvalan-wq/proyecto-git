@@ -18,10 +18,17 @@ body {
 }
 
 button {
-  background: #6c63ff;
+  background: #ff6b6b;
   color: white;
   border: none;
-  padding: 10px 20px;
+  padding: 15px 30px;
+  font-size: 18px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #ff4757;
 }
 
 h1 {
